@@ -1,7 +1,7 @@
 # AzureADPopulate
 Populate users in bulk in Azure Active Directory
 
-Intended purpose of this script is to be executed in a lab for demonstration purposes or to create a batch of users in Azure Active Directory.
+Intended purpose of this script is to be executed in a lab scenario for demonstration/test purposes or to create a batch of users in Azure Active Directory.
 
 Script must be run under administrative credentials that have been granted the proper rights in a Azure Active Directory tenant.
 
