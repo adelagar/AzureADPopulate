@@ -1,0 +1,2 @@
+UPN,FirstName,LastName,DisplayName,Title,UsageLocation,Department,AlternateEmailAddress,MobilePhone,AuthenticationPhone
+testuser1@azureonline.contoso.com,Test,User1,Test User,Contractor,US,Finance,testuser1@contoso.com,3015555555,3015555555
